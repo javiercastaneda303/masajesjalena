@@ -1,0 +1,9 @@
+import './components/vistas/view-cabezera';
+import './components/vistas/view-footer';
+import './components/vistas/view-presentacion';
+import './components/vistas/view-masajes';
+import './components/vistas/view-contacto';
+import './components/pwa-live';
+import './components/vistas/view-whatsapp';
+import './components/controladores/c-idioma';
+import './components/vistas/view-test';
